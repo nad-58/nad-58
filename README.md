@@ -9,21 +9,57 @@ My work sits at the intersection of hands-on AI engineering and responsible AI d
 ## Focus areas
 
 - AI / ML model validation and lifecycle governance
-- LLM and RAG evaluation, groundedness, traceability, and human review
-- Medical AI assurance, risk management, post-market monitoring, and change control
+- Dataset quality, leakage review, calibration, error analysis, and monitoring
+- LLM and RAG evaluation, groundedness, source traceability, and human review
 - Edge AI and embedded computer vision deployment
-- Dataset governance, fairness, robustness, and monitoring
+- Medical AI assurance, risk management, monitoring, and change control
 - Computer vision, signal processing, multimodal AI, and intelligent sensing
 - Research-to-product transfer for real-world AI systems
 
-## Portfolio repositories
+## Featured portfolio repositories
 
 | Repository | Focus |
 |---|---|
-| [AI Model Validation Framework](https://github.com/nad-58/ai-model-validation-framework) | Technical framework for AI model validation, fairness, robustness, monitoring, LLM/RAG evaluation, and lifecycle evidence |
-| [Edge AI Computer Vision Deployment](https://github.com/nad-58/edge-ai-computer-vision-deployment) | Edge AI and embedded computer vision deployment readiness: latency, memory, quantisation, hardware-aware validation, and production constraints |
-| [LLM RAG Evaluation Governance](https://github.com/nad-58/llm-rag-evaluation-governance) | Evaluation and governance of LLM/RAG systems: groundedness, retrieval quality, source traceability, unsupported claims, prompt robustness, and human review |
-| Medical AI Governance Toolkit | Private repository for medical AI governance templates, lifecycle review, risk management, human oversight, monitoring, and re-validation |
+| [AI Model Validation Framework](https://github.com/nad-58/ai-model-validation-framework) | Full-lifecycle AI validation: dataset quality, leakage review, calibration, fairness, robustness, LLM/RAG evaluation, monitoring, model comparison, and runnable validation examples |
+| [Edge AI Computer Vision Deployment](https://github.com/nad-58/edge-ai-computer-vision-deployment) | Edge AI and embedded computer vision deployment readiness: latency, memory, quantisation, hardware-aware validation, image robustness, detection/segmentation review, and production constraints |
+| [LLM RAG Evaluation Governance](https://github.com/nad-58/llm-rag-evaluation-governance) | Evaluation and governance of LLM/RAG systems: groundedness, retrieval quality, source traceability, unsupported claims, prompt robustness, automated vs manual review, and human oversight |
+| Medical AI Governance Toolkit | Private repository for medical AI governance templates, lifecycle review, risk management, human oversight, monitoring, and re-validation trigger logic |
+
+## Selected repository highlights
+
+### AI Model Validation Framework
+
+A practical framework for end-to-end AI model and dataset evaluation. It includes:
+
+- Full-lifecycle AI model and dataset evaluation documentation
+- Dataset quality and leakage review templates
+- Calibration and error-analysis guidance
+- Fairness and subgroup validation examples
+- LLM/RAG validation examples
+- Model comparison and regression testing templates
+- A runnable synthetic full-lifecycle validation report
+
+### Edge AI Computer Vision Deployment
+
+A hands-on portfolio project for deploying computer vision models under real-world edge constraints. It includes:
+
+- Latency, memory, and quantisation utilities
+- Hardware-aware validation guidance
+- Image robustness testing guidance
+- Computer vision error-analysis workflow
+- Object detection and segmentation evaluation checklists
+- Deployment readiness examples
+
+### LLM RAG Evaluation Governance
+
+A practical governance and evaluation framework for generative AI workflows. It includes:
+
+- Groundedness and source-traceability evaluation
+- Retrieval quality checks
+- Unsupported-claim and hallucination-risk review
+- Prompt robustness and human oversight guidance
+- Automated versus manual evaluation workflow
+- Metric threshold, pass-rate, and annotation templates
 
 ## Selected technical themes
 
@@ -41,7 +77,7 @@ I focus on practical evaluation of generative AI systems, including groundedness
 
 ### Medical AI and high-risk AI assurance
 
-I work with AI lifecycle review, risk controls, clinical/performance validation evidence, subgroup fairness, post-market monitoring, and change-impact assessment for AI-enabled systems.
+I work with AI lifecycle review, risk controls, clinical/performance validation evidence, subgroup fairness, monitoring, and change-impact assessment for AI-enabled systems.
 
 ## Technical stack
 
@@ -76,4 +112,4 @@ This GitHub profile is being developed as a focused technical portfolio around:
 
 ---
 
-*The public repositories here use synthetic examples and generic templates only. They do not contain confidential client data, proprietary employer material, patient data, or regulated-device evidence.*
+*The public repositories here use synthetic examples and generic templates only. They do not contain confidential client data, proprietary employer material, customer material, patient data, or regulated-device evidence.*
