@@ -24,6 +24,7 @@ My work sits at the intersection of hands-on AI engineering and responsible AI d
 | [AI Model Validation Framework](https://github.com/nad-58/ai-model-validation-framework) | Full-lifecycle AI validation: dataset quality, leakage review, calibration, fairness, robustness, LLM/RAG evaluation, monitoring, model comparison, and runnable validation examples |
 | [Edge AI Computer Vision Deployment](https://github.com/nad-58/edge-ai-computer-vision-deployment) | Edge AI and embedded computer vision deployment readiness: latency, memory, quantisation, hardware-aware validation, image robustness, detection/segmentation review, and production constraints |
 | [LLM RAG Evaluation Governance](https://github.com/nad-58/llm-rag-evaluation-governance) | Evaluation and governance of LLM/RAG systems: groundedness, retrieval quality, source traceability, unsupported claims, prompt robustness, automated vs manual review, and human oversight |
+| [Academic Collaborations](https://github.com/nad-58/academic-collaborations) | University partnerships, postgraduate supervision, engineering AI, publications, conference outputs, and research-to-industry translation |
 | Medical AI Governance Toolkit | Private repository for medical AI governance templates, lifecycle review, risk management, human oversight, monitoring, and re-validation trigger logic |
 
 ## Selected repository highlights
@@ -62,25 +63,9 @@ A practical governance and evaluation framework for generative AI workflows. It 
 - Automated versus manual evaluation workflow
 - Metric threshold, pass-rate, and annotation templates
 
-## Academic and research collaboration
+### Academic Collaborations
 
-### University of Leeds — Industrial Advisory Board and postgraduate supervision
-
-I serve as an Industrial Advisory Board member for the Engineering Programme at the University of Leeds and contribute to postgraduate supervision and industry-informed research in AI, machine learning, computer vision, digital twins, and advanced engineering applications.
-
-### AI-enabled lithium-ion battery cathode modelling
-
-I contributed as an industry co-supervisor and AI/ML collaborator to the interdisciplinary project **“A computational framework for predicting porous media properties of lithium-ion battery cathode.”** The work brought together researchers from the University of Leeds, the University of York, and industry.
-
-The framework combined:
-
-- computational fluid dynamics and design of experiments for electrode coating;
-- MATLAB-based porous-media generation using particle-size distributions;
-- image processing and Python-based porosity calculation;
-- lattice-Boltzmann modelling for permeability and tortuosity reference values;
-- convolutional neural networks for fast prediction of porous-media properties.
-
-My contribution focused on AI/ML methodology, model evaluation, technical supervision, and connecting data-driven methods with engineering simulation. The project demonstrates my broader interest in physics-informed AI, advanced manufacturing, battery engineering, and research-to-industry translation.
+A dedicated portfolio of academic–industry collaboration, postgraduate supervision, conference dissemination, publications, and engineering AI projects. It currently includes the University of Leeds battery cathode modelling project and a structured area for Aston University supervision activities.
 
 ## Selected technical themes
 
@@ -132,7 +117,7 @@ This GitHub profile is being developed as a focused technical portfolio around:
 3. Edge AI and embedded computer vision deployment
 4. Medical AI governance and lifecycle assurance
 5. Physics-informed and engineering AI
-6. Research-to-production AI engineering patterns
+6. Academic collaboration and research-to-production engineering
 
 ## Contact
 
