@@ -14,6 +14,7 @@ My work sits at the intersection of hands-on AI engineering and responsible AI d
 - Edge AI and embedded computer vision deployment
 - Medical AI assurance, risk management, monitoring, and change control
 - Computer vision, signal processing, multimodal AI, and intelligent sensing
+- Physics-informed and engineering AI for advanced manufacturing and materials
 - Research-to-product transfer for real-world AI systems
 
 ## Featured portfolio repositories
@@ -61,6 +62,26 @@ A practical governance and evaluation framework for generative AI workflows. It 
 - Automated versus manual evaluation workflow
 - Metric threshold, pass-rate, and annotation templates
 
+## Academic and research collaboration
+
+### University of Leeds — Industrial Advisory Board and postgraduate supervision
+
+I serve as an Industrial Advisory Board member for the Engineering Programme at the University of Leeds and contribute to postgraduate supervision and industry-informed research in AI, machine learning, computer vision, digital twins, and advanced engineering applications.
+
+### AI-enabled lithium-ion battery cathode modelling
+
+I contributed as an industry co-supervisor and AI/ML collaborator to the interdisciplinary project **“A computational framework for predicting porous media properties of lithium-ion battery cathode.”** The work brought together researchers from the University of Leeds, the University of York, and industry.
+
+The framework combined:
+
+- computational fluid dynamics and design of experiments for electrode coating;
+- MATLAB-based porous-media generation using particle-size distributions;
+- image processing and Python-based porosity calculation;
+- lattice-Boltzmann modelling for permeability and tortuosity reference values;
+- convolutional neural networks for fast prediction of porous-media properties.
+
+My contribution focused on AI/ML methodology, model evaluation, technical supervision, and connecting data-driven methods with engineering simulation. The project demonstrates my broader interest in physics-informed AI, advanced manufacturing, battery engineering, and research-to-industry translation.
+
 ## Selected technical themes
 
 ### AI model validation and governance
@@ -79,11 +100,16 @@ I focus on practical evaluation of generative AI systems, including groundedness
 
 I work with AI lifecycle review, risk controls, clinical/performance validation evidence, subgroup fairness, monitoring, and change-impact assessment for AI-enabled systems.
 
+### Engineering AI and computational modelling
+
+I collaborate on interdisciplinary research that combines machine learning with computational modelling, image processing, porous-media analysis, advanced manufacturing, and energy-storage applications.
+
 ## Technical stack
 
 **Languages & frameworks:** Python, C++, MATLAB, PyTorch, TensorFlow, Keras, OpenCV, Scikit-learn  
 **AI/ML:** Computer Vision, Deep Learning, LLMs, RAG, NLP, Signal Processing, Time-Series Analysis, Multimodal AI  
 **Deployment:** Docker, CI/CD, MLflow, model monitoring, edge AI optimisation, CPU/GPU/MCU deployment  
+**Engineering AI:** CFD-informed workflows, image-based material characterisation, surrogate modelling, design of experiments, physics-informed AI  
 **Hardware-aware AI:** ARM, NXP, Renesas, STMicroelectronics, embedded AI, real-time processing  
 **Governance:** AI lifecycle management, dataset governance, fairness, robustness, monitoring, risk management, human oversight
 
@@ -93,6 +119,8 @@ I work with AI lifecycle review, risk controls, clinical/performance validation 
 - Principal in Machine Intelligence, Dyson Technology
 - Technical Lead, Computer Vision and Machine Learning, HID / Access-IS
 - R&D Scientist, Machine Learning and Imaging Systems, ARM
+- Industrial Advisory Board Member, Engineering Programme, University of Leeds
+- Postgraduate industrial adviser and co-supervisor for applied AI and engineering research
 - Research roles in machine learning, computer vision, video analytics, and signal processing
 
 ## What I am building here
@@ -103,7 +131,8 @@ This GitHub profile is being developed as a focused technical portfolio around:
 2. Responsible LLM/RAG evaluation
 3. Edge AI and embedded computer vision deployment
 4. Medical AI governance and lifecycle assurance
-5. Research-to-production AI engineering patterns
+5. Physics-informed and engineering AI
+6. Research-to-production AI engineering patterns
 
 ## Contact
 
