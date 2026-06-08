@@ -6,6 +6,22 @@ I am a Principal AI / Machine Learning Engineer with 18+ years of experience del
 
 My work sits at the intersection of hands-on AI engineering and responsible AI deployment: building, validating, optimising, and reviewing AI systems from early research through production release, monitoring, and lifecycle governance.
 
+## Start here
+
+| Goal | Recommended repository | Suggested first step |
+|---|---|---|
+| Learn practical AI evaluation | [Learn AI Evaluation](https://github.com/nad-58/learn-ai-evaluation) | Start with the introductory evaluation tutorials |
+| Validate an ML system | [AI Model Validation Framework](https://github.com/nad-58/ai-model-validation-framework) | Review dataset quality, model performance, fairness, robustness, and monitoring |
+| Understand AI system layers | [AI Architecture Stack](https://github.com/nad-58/ai-architecture-stack) | Read the layered architecture and lifecycle mapping |
+| Deploy computer vision at the edge | [Edge AI Computer Vision Deployment](https://github.com/nad-58/edge-ai-computer-vision-deployment) | Begin with hardware-aware validation and deployment readiness |
+| Evaluate LLM/RAG systems | [LLM RAG Evaluation Governance](https://github.com/nad-58/llm-rag-evaluation-governance) | Start with groundedness, traceability, and human-review guidance |
+| Explore AI methods from symbolic to neural | [AI Computational Methods](https://github.com/nad-58/ai-computational-methods) | Open the taxonomy and runnable Python examples |
+| Review imaging and ISP engineering | [ISP](https://github.com/nad-58/ISP) | Follow the image signal processing pipeline stages |
+| Explore display and image-processing research | [Local Backlight Dimming](https://github.com/nad-58/local-backlight-dimming-led-lcd-display) | Review the research background and Python implementations |
+| View academic–industry projects | [Academic Collaborations](https://github.com/nad-58/academic-collaborations) | Browse the university and engineering AI case studies |
+
+See the complete [Portfolio Map](PORTFOLIO-MAP.md) for repository clusters, reading paths, and relationships.
+
 ## Focus areas
 
 - AI / ML model validation and lifecycle governance
@@ -17,55 +33,38 @@ My work sits at the intersection of hands-on AI engineering and responsible AI d
 - Physics-informed and engineering AI for advanced manufacturing and materials
 - Research-to-product transfer for real-world AI systems
 
-## Featured portfolio repositories
+## Portfolio clusters
+
+### AI validation and governance
 
 | Repository | Focus |
 |---|---|
-| [AI Model Validation Framework](https://github.com/nad-58/ai-model-validation-framework) | Full-lifecycle AI validation: dataset quality, leakage review, calibration, fairness, robustness, LLM/RAG evaluation, monitoring, model comparison, and runnable validation examples |
-| [Edge AI Computer Vision Deployment](https://github.com/nad-58/edge-ai-computer-vision-deployment) | Edge AI and embedded computer vision deployment readiness: latency, memory, quantisation, hardware-aware validation, image robustness, detection/segmentation review, and production constraints |
-| [LLM RAG Evaluation Governance](https://github.com/nad-58/llm-rag-evaluation-governance) | Evaluation and governance of LLM/RAG systems: groundedness, retrieval quality, source traceability, unsupported claims, prompt robustness, automated vs manual review, and human oversight |
-| [Academic Collaborations](https://github.com/nad-58/academic-collaborations) | University partnerships, postgraduate supervision, engineering AI, publications, conference outputs, and research-to-industry translation |
-| Medical AI Governance Toolkit | Private repository for medical AI governance templates, lifecycle review, risk management, human oversight, monitoring, and re-validation trigger logic |
+| [Learn AI Evaluation](https://github.com/nad-58/learn-ai-evaluation) | Structured learning path for dataset, model, system, fairness, robustness, monitoring, and advanced AI evaluation |
+| [AI Model Validation Framework](https://github.com/nad-58/ai-model-validation-framework) | Full-lifecycle model and dataset validation with runnable examples and report templates |
+| [LLM RAG Evaluation Governance](https://github.com/nad-58/llm-rag-evaluation-governance) | Groundedness, retrieval quality, source traceability, unsupported claims, human oversight, and monitoring |
+| Medical AI Governance Toolkit | Private repository for medical AI governance, risk management, monitoring, and re-validation logic |
 
-## Selected repository highlights
+### AI systems and computational foundations
 
-### AI Model Validation Framework
+| Repository | Focus |
+|---|---|
+| [AI Architecture Stack](https://github.com/nad-58/ai-architecture-stack) | Layered AI system architecture inspired by systems engineering and lifecycle thinking |
+| [AI Computational Methods](https://github.com/nad-58/ai-computational-methods) | Knowledge-driven AI, reasoning, traditional ML, neural networks, transfer learning, and metaheuristics |
 
-A practical framework for end-to-end AI model and dataset evaluation. It includes:
+### Edge AI, vision, and imaging
 
-- Full-lifecycle AI model and dataset evaluation documentation
-- Dataset quality and leakage review templates
-- Calibration and error-analysis guidance
-- Fairness and subgroup validation examples
-- LLM/RAG validation examples
-- Model comparison and regression testing templates
-- A runnable synthetic full-lifecycle validation report
+| Repository | Focus |
+|---|---|
+| [Edge AI Computer Vision Deployment](https://github.com/nad-58/edge-ai-computer-vision-deployment) | Latency, memory, quantisation, hardware-aware validation, robustness, and production readiness |
+| [ISP](https://github.com/nad-58/ISP) | Educational image signal processor pipeline and image-processing algorithms |
+| [Local Backlight Dimming](https://github.com/nad-58/local-backlight-dimming-led-lcd-display) | HDR/display research, local backlight dimming, image quality, and power trade-offs |
 
-### Edge AI Computer Vision Deployment
+### Academic and engineering AI
 
-A hands-on portfolio project for deploying computer vision models under real-world edge constraints. It includes:
-
-- Latency, memory, and quantisation utilities
-- Hardware-aware validation guidance
-- Image robustness testing guidance
-- Computer vision error-analysis workflow
-- Object detection and segmentation evaluation checklists
-- Deployment readiness examples
-
-### LLM RAG Evaluation Governance
-
-A practical governance and evaluation framework for generative AI workflows. It includes:
-
-- Groundedness and source-traceability evaluation
-- Retrieval quality checks
-- Unsupported-claim and hallucination-risk review
-- Prompt robustness and human oversight guidance
-- Automated versus manual evaluation workflow
-- Metric threshold, pass-rate, and annotation templates
-
-### Academic Collaborations
-
-A dedicated portfolio of academic–industry collaboration, postgraduate supervision, conference dissemination, publications, and engineering AI projects. It currently includes the University of Leeds battery cathode modelling project and a structured area for Aston University supervision activities.
+| Repository | Focus |
+|---|---|
+| [Academic Collaborations](https://github.com/nad-58/academic-collaborations) | University partnerships, postgraduate supervision, publications, conference outputs, and research-to-industry translation |
+| MATLAB Machine Learning | Private full-course archive for traditional machine learning using MATLAB |
 
 ## Selected technical themes
 
@@ -108,16 +107,12 @@ I collaborate on interdisciplinary research that combines machine learning with 
 - Postgraduate industrial adviser and co-supervisor for applied AI and engineering research
 - Research roles in machine learning, computer vision, video analytics, and signal processing
 
-## What I am building here
+## Portfolio principles
 
-This GitHub profile is being developed as a focused technical portfolio around:
-
-1. Practical AI validation frameworks
-2. Responsible LLM/RAG evaluation
-3. Edge AI and embedded computer vision deployment
-4. Medical AI governance and lifecycle assurance
-5. Physics-informed and engineering AI
-6. Academic collaboration and research-to-production engineering
+- Public repositories use synthetic examples, generic templates, or publicly shareable research material.
+- Confidential client, employer, patient, and regulated-device evidence is excluded.
+- Repositories are designed to be practical, educational, and technically reviewable.
+- Python repositories increasingly include tests, CI workflows, and structured contribution guidance.
 
 ## Contact
 
