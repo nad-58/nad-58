@@ -11,7 +11,7 @@ My work sits at the intersection of hands-on AI engineering and responsible AI d
 | Goal | Recommended repository | Suggested first step |
 |---|---|---|
 | Learn practical AI evaluation | [Learn AI Evaluation](https://github.com/nad-58/learn-ai-evaluation) | Start with the introductory evaluation tutorials |
-| Validate an ML system | AI Model Validation Framework *(private)* | Review dataset quality, model performance, fairness, robustness, and monitoring |
+| Validate an ML system | [AI Model Validation Framework](https://github.com/nad-58/ai-model-validation-framework) | Review dataset quality, model performance, fairness, robustness, and monitoring |
 | Understand AI system layers | [AI Architecture Stack](https://github.com/nad-58/ai-architecture-stack) | Read the layered architecture and lifecycle mapping |
 | Deploy computer vision at the edge | [Edge AI Computer Vision Deployment](https://github.com/nad-58/edge-ai-computer-vision-deployment) | Begin with hardware-aware validation and deployment readiness |
 | Evaluate LLM/RAG systems | [LLM RAG Evaluation Governance](https://github.com/nad-58/llm-rag-evaluation-governance) | Start with groundedness, traceability, and human-review guidance |
@@ -40,7 +40,7 @@ See the complete [Portfolio Map](PORTFOLIO-MAP.md) for repository clusters, read
 | Repository | Focus |
 |---|---|
 | [Learn AI Evaluation](https://github.com/nad-58/learn-ai-evaluation) | Structured learning path for dataset, model, system, fairness, robustness, monitoring, and advanced AI evaluation |
-| AI Model Validation Framework *(private)* | Full-lifecycle model and dataset validation with runnable examples and report templates |
+| [AI Model Validation Framework](https://github.com/nad-58/ai-model-validation-framework) | Full-lifecycle model and dataset validation with runnable examples and report templates |
 | [LLM RAG Evaluation Governance](https://github.com/nad-58/llm-rag-evaluation-governance) | Groundedness, retrieval quality, source traceability, unsupported claims, human oversight, and monitoring |
 | Medical AI Governance Toolkit *(private)* | Medical AI governance, risk management, monitoring, and re-validation logic |
 
